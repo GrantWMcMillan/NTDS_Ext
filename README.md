@@ -1,4 +1,4 @@
-# NTDS_Extr
+# NTDS_Ext
 
 A quick script I use on my PATH variable within Kali to save me time on a test looking up multiple commands.
 
