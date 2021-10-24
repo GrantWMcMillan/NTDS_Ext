@@ -7,7 +7,7 @@ The script will
  - Removes Computer Account ($)
  - Removes Disabled Accounts
  - Removes the (Enabled) at the end of the NTDS file.
- - Creates a clened up version of the NTDS file - "DC_Hash.txt"
+ - Creates a cleaned up version of the NTDS file - "DC_Hash.txt"
  - Finally it cuts out the NTLM Hashes, sorts the hashes by unique and puts them into a file (Hash Only.txt) ready for hashcat -1000 cracking.
 
 
