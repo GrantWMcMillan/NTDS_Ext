@@ -15,3 +15,9 @@ The script will
 
 * Greps out LMHashes there they are not blank.
 * Finds Shared NTLM Hashes and then greps out the usernames that are sharing a password.
+
+
+**USAGE:**
+
+./NTDS_EXT.sh ntds.dit
+
